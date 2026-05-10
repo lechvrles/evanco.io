@@ -1,10 +1,8 @@
-#bot = Client("241963676:6To81nm5jA6rC4o0HyGw4zVu0sQqB8m9HGQ")
-
 from balethon import Client
 from balethon.conditions import private
 from balethon.objects import InlineKeyboard, File
 
-bot = Client("241963676:6To81nm5jA6rC4o0HyGw4zVu0sQqB8m9HGQ")
+bot = Client("Token")
 
 #main func
 @bot.on_message(private)
