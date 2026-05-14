@@ -1,10 +1,8 @@
-#bot = Client("TOKEN")
-
 from balethon import Client
 from balethon.conditions import private, is_joined
 from balethon.objects import InlineKeyboard, File, InlineKeyboardButton
 
-
+<<<<<<< HEAD
 bot = Client("TOKEN")
 channel_button = InlineKeyboardButton("کانال اِوان", url="https://ble.ir/evantechco")
 CHAT_ID = 4780203817
