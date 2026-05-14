@@ -1,0 +1,4 @@
+Balethon
+python-telegram-bot
+requests
+mysql-connector-python
